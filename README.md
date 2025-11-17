@@ -55,7 +55,7 @@ Ganache
 
 JWT Authentication
 
-📂 Project Structure
+## Project Structure
 
 Smart Loans/
 │── main.py
@@ -65,16 +65,15 @@ Smart Loans/
 │── smartloans.db
 │
 ├── contract/
-│   ├── connect.py
-│   ├── contract.py
+│ ├── connect.py
+│ ├── contract.py
 │
 ├── routers/
-│   ├── auth.py
-│   ├── users.py
-│   ├── admin.py
+│ ├── auth.py
+│ ├── users.py
+│ ├── admin.py
 │
 └── README.md
-
 
 🧪 How to Run
 1️⃣ Install dependencies
