@@ -75,6 +75,7 @@ Smart Loans/
 │
 └── README.md
 
+
 🧪 How to Run
 1️⃣ Install dependencies
 pip install -r requirements.txt
