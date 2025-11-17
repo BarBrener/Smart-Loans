@@ -57,25 +57,21 @@ JWT Authentication
 
 ## Project Structure
 
-Smart Loans/
-│── main.py
-│── database.py
-│── models.py
-│── enums.py
-│── smartloans.db
-│
-├── contract/
-│   ├── connect.py
-│   ├── contract.py
-│
-├── routers/
-│   ├── auth.py
-│   ├── users.py
-│   ├── admin.py
-│
-└── README.md
+- `Smart Loans/`
+  - `main.py`
+  - `database.py`
+  - `models.py`
+  - `enums.py`
+  - `smartloans.db`
+  - `contract/`
+    - `connect.py`
+    - `contract.py`
+  - `routers/`
+    - `auth.py`
+    - `users.py`
+    - `admin.py`
+  - `README.md`
 
- ##
 
 🧪 How to Run
 1️⃣ Install dependencies
