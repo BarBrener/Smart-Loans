@@ -56,6 +56,7 @@ Ganache
 JWT Authentication
 
 📂 Project Structure
+
 Smart Loans/
 │── main.py
 │── database.py
